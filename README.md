@@ -1,12 +1,32 @@
-# React + Vite
+# Sauna Atelier
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Vite + React single page application for Sauna Atelier, featuring product listings, services, gallery, and an enquiry form backed by a Vercel serverless function.
 
-Currently, two official plugins are available:
+## Getting started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+yarn install
+yarn dev
+```
 
-## Expanding the ESLint configuration
+### Available scripts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `yarn dev` – start the development server.
+- `yarn build` – create a production build.
+- `yarn preview` – preview the production build locally.
+- `yarn lint` – run ESLint checks.
+
+## Environment variables
+
+Analytics scripts are loaded at runtime if the following variables are supplied:
+
+- `VITE_PLAUSIBLE_DOMAIN` – domain for [Plausible](https://plausible.io/) analytics.
+- `VITE_GA_MEASUREMENT_ID` – Google Analytics 4 measurement ID (used when Plausible is not configured).
+
+## Contact API
+
+The contact form posts to `/api/contact`. The serverless function currently validates the payload and returns a `200 OK` response. Extend the handler with your preferred email or CRM integration before going live.
+
+## Deployment
+
+The project is configured for Vercel. A `vercel.json` rewrite routes all requests to `index.html` to support SPA navigation. Connect the repository to Vercel, ensure environment variables are set for analytics, and run `yarn build` during the build step.

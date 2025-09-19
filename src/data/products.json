@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "prefab-outdoor-sauna",
+    "title": "Prefab Outdoor Sauna",
+    "subtitle": "Cedar or thermowood, 2–6 person",
+    "priceFrom": 5490,
+    "thumbnail": "/images/products/prefab-outdoor-sauna.svg",
+    "gallery": [
+      "/images/products/prefab-outdoor-sauna-1.svg",
+      "/images/products/prefab-outdoor-sauna-2.svg"
+    ],
+    "features": [
+      "Quick two-day installation",
+      "Harvia or HUUM heater ready",
+      "Engineered for Australian climate"
+    ],
+    "description": "A durable, weather-ready outdoor sauna crafted with insulated panels and premium timbers for backyard escapes.",
+    "categories": ["saunas"],
+    "tags": ["outdoor", "cedar", "prefab"],
+    "capacity": "2–6 people",
+    "timber": "Thermally modified Nordic spruce",
+    "heaterOptions": ["Harvia Cilindro 9kW", "HUUM Drop 9kW"],
+    "dimensions": {
+      "footprint": "2400 x 2200 mm",
+      "ceiling": "2100 mm"
+    }
+  },
+  {
+    "slug": "infrared-sauna",
+    "title": "Infrared Sauna",
+    "subtitle": "Low-EMF panels, fast heat-up",
+    "priceFrom": 3990,
+    "thumbnail": "/images/products/infrared-sauna.svg",
+    "gallery": [
+      "/images/products/infrared-sauna-1.svg",
+      "/images/products/infrared-sauna-2.svg"
+    ],
+    "features": [
+      "Low-EMF carbon panels",
+      "Full-glass front with soft-close door",
+      "Programmable wellness presets"
+    ],
+    "description": "Modern infrared therapy cabin optimised for daily recovery, with intelligent controls and ambient lighting.",
+    "categories": ["saunas"],
+    "tags": ["infrared", "indoor"],
+    "capacity": "1–3 people",
+    "timber": "Canadian hemlock",
+    "heaterOptions": ["CarbonWave 2.1kW"],
+    "dimensions": {
+      "footprint": "1800 x 1200 mm",
+      "ceiling": "2050 mm"
+    }
+  },
+  {
+    "slug": "panorama-barrel-sauna",
+    "title": "Panorama Barrel Sauna",
+    "subtitle": "Curved glass end, coastal rated",
+    "priceFrom": 6790,
+    "thumbnail": "/images/products/panorama-barrel-sauna.svg",
+    "gallery": [
+      "/images/products/panorama-barrel-sauna-1.svg",
+      "/images/products/panorama-barrel-sauna-2.svg",
+      "/images/products/panorama-barrel-sauna-3.svg"
+    ],
+    "features": [
+      "Panoramic bronze glazing",
+      "Marine-grade stainless fasteners",
+      "Integrated veranda benches"
+    ],
+    "description": "Signature barrel sauna with wraparound glazing that frames the landscape while holding heat efficiently.",
+    "categories": ["saunas"],
+    "tags": ["barrel", "panorama"],
+    "capacity": "4–8 people",
+    "timber": "Alaskan yellow cedar",
+    "heaterOptions": ["HUUM Hive Mini 9kW", "Harvia Virta 11kW"],
+    "dimensions": {
+      "footprint": "3000 x 2250 mm",
+      "ceiling": "2100 mm"
+    }
+  },
+  {
+    "slug": "aurora-electric-heater",
+    "title": "Aurora Electric Heater",
+    "subtitle": "9kW stainless steel tower",
+    "priceFrom": 1890,
+    "thumbnail": "/images/products/aurora-electric-heater.svg",
+    "gallery": [
+      "/images/products/aurora-electric-heater-1.svg"
+    ],
+    "features": [
+      "Wi-Fi ready control module",
+      "Tri-zone safety sensors",
+      "Large stone cavity for gentle steam"
+    ],
+    "description": "Premium electric sauna heater designed for even heat distribution and precise digital scheduling.",
+    "categories": ["heaters"],
+    "tags": ["electric", "tower"],
+    "capacity": "For rooms up to 18 m³",
+    "timber": null,
+    "heaterOptions": ["Aurora touch control"],
+    "dimensions": {
+      "footprint": "410 x 410 mm",
+      "height": "930 mm"
+    }
+  },
+  {
+    "slug": "ember-wood-fire-heater",
+    "title": "Ember Wood-Fire Heater",
+    "subtitle": "Traditional steel firebox",
+    "priceFrom": 2290,
+    "thumbnail": "/images/products/ember-wood-fire-heater.svg",
+    "gallery": [
+      "/images/products/ember-wood-fire-heater-1.svg",
+      "/images/products/ember-wood-fire-heater-2.svg"
+    ],
+    "features": [
+      "Dual combustion chambers",
+      "Tempered glass viewing window",
+      "Includes chimney kit"
+    ],
+    "description": "Authentic wood-fired heater that delivers rich steam and the crackle of timber with modern safety upgrades.",
+    "categories": ["heaters"],
+    "tags": ["wood", "traditional"],
+    "capacity": "For rooms up to 14 m³",
+    "timber": null,
+    "heaterOptions": ["Chimney set", "Fire grate"],
+    "dimensions": {
+      "footprint": "450 x 480 mm",
+      "height": "780 mm"
+    }
+  },
+  {
+    "slug": "thermowood-cladding-pack",
+    "title": "Thermowood Cladding Pack",
+    "subtitle": "26 m² of Scandinavian spruce",
+    "priceFrom": 1190,
+    "thumbnail": "/images/products/thermowood-cladding-pack.svg",
+    "gallery": [
+      "/images/products/thermowood-cladding-pack-1.svg",
+      "/images/products/thermowood-cladding-pack-2.svg"
+    ],
+    "features": [
+      "Kiln-dried and profiled for sauna humidity",
+      "Hidden fix profile",
+      "Sustainably harvested forestry co-op"
+    ],
+    "description": "Complete internal lining pack for custom sauna builds, including matching corner trims and finish oil.",
+    "categories": ["timbers"],
+    "tags": ["cladding", "spruce"],
+    "capacity": null,
+    "timber": "Thermally modified spruce",
+    "heaterOptions": [],
+    "dimensions": {
+      "coverage": "26 m²",
+      "boardWidth": "95 mm"
+    }
+  }
+]
