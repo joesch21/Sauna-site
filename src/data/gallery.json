@@ -1,0 +1,74 @@
+[
+  {
+    "src": "/images/gallery/mornington-deck.svg",
+    "alt": "Cedar barrel sauna glowing on a clifftop deck at sunrise",
+    "title": "Mornington Deck",
+    "location": "Mornington Peninsula, VIC",
+    "description": "Panorama barrel sauna framed by glass capturing the first light over the bay.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/yarra-ridge-retreat.svg",
+    "alt": "Rectangular prefab sauna beside a plunge pool at dusk",
+    "title": "Yarra Ridge Retreat",
+    "location": "Yarra Valley, VIC",
+    "description": "Prefab cedar sauna with warm lighting set beside a granite plunge pool.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/urban-loft-suite.svg",
+    "alt": "Compact infrared sauna in an apartment wellness nook",
+    "title": "Urban Loft Suite",
+    "location": "Fitzroy, VIC",
+    "description": "Infrared cabin with smoked glass door built into a loft mezzanine.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/river-gum-hideaway.svg",
+    "alt": "Wood-fired sauna by a gumtree forest and river",
+    "title": "River Gum Hideaway",
+    "location": "Warburton, VIC",
+    "description": "Wood-fired sauna with oversized rocks forming outdoor seating.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/surf-coast-studio.svg",
+    "alt": "Minimalist sauna pavilion with surfboards stacked outside",
+    "title": "Surf Coast Studio",
+    "location": "Torquay, VIC",
+    "description": "Light-filled thermowood-clad studio with custom heater bench.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/hinterland-escape.svg",
+    "alt": "Prefab sauna with large window facing rolling hills",
+    "title": "Hinterland Escape",
+    "location": "Byron Hinterland, NSW",
+    "description": "Electric-heated sauna perched above a valley with folding deck chairs.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/city-rooftop-ritual.svg",
+    "alt": "Rooftop sauna with city skyline backdrop",
+    "title": "City Rooftop Ritual",
+    "location": "Melbourne CBD, VIC",
+    "description": "Compact sauna capsule on a planted rooftop with contrast lighting.",
+    "width": 1440,
+    "height": 960
+  },
+  {
+    "src": "/images/gallery/alpine-microspa.svg",
+    "alt": "Tiny sauna cabin with snow piled around",
+    "title": "Alpine Microspa",
+    "location": "Falls Creek, VIC",
+    "description": "Timber-clad micro sauna with snow guard awning and glowing heater stones.",
+    "width": 1440,
+    "height": 960
+  }
+]
