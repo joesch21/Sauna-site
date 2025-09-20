@@ -50,7 +50,7 @@ export default function Products() {
 
   useEffect(() => {
     seo({
-      title: 'Products | Sauna Atelier',
+      title: 'Products | Corindi Saunas',
       description:
         'Browse indoor and outdoor saunas, heaters, and timber finishing packs tailored for Australian conditions.',
       canonical: 'https://www.saunaatelier.com.au/products',

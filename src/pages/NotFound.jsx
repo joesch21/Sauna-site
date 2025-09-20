@@ -5,8 +5,8 @@ import { organizationSchema, seo } from '../lib/seo'
 export default function NotFound() {
   useEffect(() => {
     seo({
-      title: 'Page Not Found | Sauna Atelier',
-      description: 'The page you requested could not be found on Sauna Atelier.',
+      title: 'Page Not Found | Corindi Saunas',
+      description: 'The page you requested could not be found on Corindi Saunas.',
       jsonLd: [organizationSchema()],
     })
   }, [])

@@ -8,7 +8,7 @@ export default function Hero() {
     <section className="hero">
       <div className="container hero__grid">
         <div className="hero__content">
-          <p className="eyebrow">Sauna Atelier</p>
+          <p className="eyebrow">Corindi Saunas</p>
           <h1>Bespoke sauna spaces for restorative rituals</h1>
           <p className="hero__lead">
             We design, build, and maintain handcrafted sauna rooms that stand up

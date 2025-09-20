@@ -1,6 +1,6 @@
-# Sauna Atelier
+# Corindi Saunas
 
-A Vite + React single page application for Sauna Atelier, featuring product listings, services, gallery, and an enquiry form backed by a Vercel serverless function.
+A Vite + React single page application for Corindi Saunas, featuring product listings, services, gallery, and an enquiry form backed by a Vercel serverless function.
 
 ## Getting started
 

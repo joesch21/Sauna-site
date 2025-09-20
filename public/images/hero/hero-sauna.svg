@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="960" height="640" viewBox="0 0 960 640" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <title>Sauna Atelier hero illustration</title>
-  <desc>Stylised illustration placeholder representing Sauna Atelier hero illustration for Sauna Atelier.</desc>
+  <title>Corindi Saunas hero illustration</title>
+  <desc>Stylised illustration placeholder representing Corindi Saunas hero illustration for Corindi Saunas.</desc>
   <defs>
     <linearGradient id="grad-hero-sauna" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#b8873a" />
@@ -14,5 +14,5 @@
   <circle cx="547" cy="366" r="350" fill="rgba(11, 11, 11, 0.40)" />
   <path d="M120 477 C 463 377, 497 383, 840 563" stroke="rgba(255, 255, 255, 0.2)" stroke-width="18" stroke-linecap="round" fill="none" />
   <text x="50%" y="54%" fill="#ffffff" font-family="'Inter', 'Segoe UI', sans-serif" font-size="164" font-weight="700" text-anchor="middle" letter-spacing="12">SA</text>
-  <text x="50%" y="72%" fill="rgba(255, 255, 255, 0.75)" font-family="'Inter', 'Segoe UI', sans-serif" font-size="40" font-weight="500" text-anchor="middle">Sauna Atelier</text>
+  <text x="50%" y="72%" fill="rgba(255, 255, 255, 0.75)" font-family="'Inter', 'Segoe UI', sans-serif" font-size="40" font-weight="500" text-anchor="middle">Corindi Saunas</text>
 </svg>

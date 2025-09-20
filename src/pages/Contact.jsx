@@ -26,9 +26,9 @@ const DETAILS = [
 export default function Contact() {
   useEffect(() => {
     seo({
-      title: 'Contact | Sauna Atelier',
+      title: 'Contact | Corindi Saunas',
       description:
-        'Book a consultation with Sauna Atelier. Visit our Melbourne studio or request a quote for custom sauna builds.',
+        'Book a consultation with Corindi Saunas. Visit our Melbourne studio or request a quote for custom sauna builds.',
       canonical: 'https://www.saunaatelier.com.au/contact',
       jsonLd: [organizationSchema(), localBusinessSchema()],
     })

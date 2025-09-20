@@ -30,7 +30,7 @@ export default function ProductDetail() {
     if (!product) return
     const canonical = `https://www.saunaatelier.com.au/products/${product.slug}`
     seo({
-      title: `${product.title} | Sauna Atelier`,
+      title: `${product.title} | Corindi Saunas`,
       description: product.description,
       canonical,
       jsonLd: [organizationSchema(), productSchema(product, canonical)].filter(Boolean),

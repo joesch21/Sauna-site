@@ -25,7 +25,7 @@ export default function Header() {
       </a>
       <div className="container header-row">
         <NavLink to="/" end className="brand">
-          Sauna Atelier
+          Corindi Saunas
         </NavLink>
         <button
           type="button"

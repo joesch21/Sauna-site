@@ -6,9 +6,9 @@ import { organizationSchema, seo } from '../lib/seo'
 export default function Gallery() {
   useEffect(() => {
     seo({
-      title: 'Gallery | Sauna Atelier',
+      title: 'Gallery | Corindi Saunas',
       description:
-        'Browse Sauna Atelier installations including outdoor barrel saunas, infrared suites, and custom wellness pavilions.',
+        'Browse Corindi Saunas installations including outdoor barrel saunas, infrared suites, and custom wellness pavilions.',
       canonical: 'https://www.saunaatelier.com.au/gallery',
       jsonLd: [organizationSchema()],
     })

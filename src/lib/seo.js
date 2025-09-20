@@ -51,7 +51,7 @@ export function seo({ title, description, canonical, jsonLd = [], openGraph = {}
 
   const resolvedDescription = description ?? ''
   const resolvedCanonical = canonical ?? window.location.href
-  const siteName = 'Sauna Atelier'
+  const siteName = 'Corindi Saunas'
 
   ensureMeta('description', resolvedDescription)
   ensureMeta('og:title', openGraph.title ?? title ?? siteName, 'property')
@@ -68,7 +68,7 @@ export function seo({ title, description, canonical, jsonLd = [], openGraph = {}
   injectJsonLd(jsonLd)
 }
 
-const BUSINESS_NAME = 'Sauna Atelier'
+const BUSINESS_NAME = 'Corindi Saunas'
 const BUSINESS_URL = 'https://www.saunaatelier.com.au'
 const BUSINESS_TELEPHONE = '+61 3 8650 1120'
 const BUSINESS_EMAIL = 'studio@saunaatelier.com'

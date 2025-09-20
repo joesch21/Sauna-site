@@ -52,7 +52,7 @@ const SERVICES = [
 export default function Services() {
   useEffect(() => {
     seo({
-      title: 'Services | Sauna Atelier',
+      title: 'Services | Corindi Saunas',
       description:
         'Design consultancy, delivery and installation, relocation, and maintenance services for bespoke sauna projects.',
       canonical: 'https://www.saunaatelier.com.au/services',

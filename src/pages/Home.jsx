@@ -32,9 +32,9 @@ const featuredProducts = products.slice(0, 4)
 export default function Home() {
   useEffect(() => {
     seo({
-      title: 'Sauna Atelier | Bespoke Sauna Design & Installation',
+      title: 'Corindi Saunas | Bespoke Sauna Design & Installation',
       description:
-        'Sauna Atelier designs, builds, and cares for custom indoor and outdoor saunas across Australia with premium materials.',
+        'Corindi Saunas designs, builds, and cares for custom indoor and outdoor saunas across Australia with premium materials.',
       canonical: 'https://www.saunaatelier.com.au/',
       jsonLd: [organizationSchema(), localBusinessSchema()],
     })
